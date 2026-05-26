@@ -1,0 +1,8 @@
+{
+  "guides": [
+    { "id": "face", "label": "顔", "color": "#7C3AED", "className": "left-[40%] top-[18%] h-[18%] w-[20%]" },
+    { "id": "body", "label": "体", "color": "#2563EB", "className": "left-[32%] top-[36%] h-[28%] w-[36%]" },
+    { "id": "legs", "label": "足", "color": "#DC2626", "className": "left-[35%] top-[64%] h-[24%] w-[30%]" },
+    { "id": "background", "label": "背景", "color": "#EA580C", "className": "left-[10%] top-[8%] h-[84%] w-[80%]" }
+  ]
+}

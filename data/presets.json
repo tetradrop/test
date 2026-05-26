@@ -1,0 +1,20 @@
+[
+  {
+    "id": "default-driver",
+    "name": "ドライバー（標準）",
+    "parts": {
+      "orientation": "front",
+      "job": "driver",
+      "gender": "male",
+      "color": "color-on",
+      "face": "face-1",
+      "hair": "hair-1",
+      "body": "body-1",
+      "arms": "arms-1",
+      "legs": "legs-1",
+      "accessory": "obj-1",
+      "background": "bg-1",
+      "vehicle": "veh-1"
+    }
+  }
+]
