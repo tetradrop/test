@@ -1,0 +1,44 @@
+{
+  "orientation": [
+    { "id": "front", "name": "正面", "category": "orientation" },
+    { "id": "side", "name": "側面", "category": "orientation" }
+  ],
+  "job": [
+    { "id": "driver", "name": "ドライバー", "category": "job" },
+    { "id": "office", "name": "オフィス", "category": "job" }
+  ],
+  "gender": [
+    { "id": "male", "name": "男性", "category": "gender" },
+    { "id": "female", "name": "女性", "category": "gender" }
+  ],
+  "color": [
+    { "id": "color-on", "name": "カラーあり", "category": "color" },
+    { "id": "color-off", "name": "モノクロ", "category": "color" }
+  ],
+  "face": [
+    { "id": "face-1", "name": "顔 1", "category": "face", "svgPath": "/illustrations/face/face-1.svg" },
+    { "id": "face-2", "name": "顔 2", "category": "face", "svgPath": "/illustrations/face/face-2.svg" }
+  ],
+  "hair": [
+    { "id": "hair-1", "name": "髪型 1", "category": "hair", "svgPath": "/illustrations/hair/hair-1.svg" }
+  ],
+  "body": [
+    { "id": "body-1", "name": "体 1", "category": "body", "svgPath": "/illustrations/body/body-1.svg" }
+  ],
+  "arms": [
+    { "id": "arms-1", "name": "腕 1", "category": "arms", "svgPath": "/illustrations/arms/arms-1.svg" }
+  ],
+  "legs": [
+    { "id": "legs-1", "name": "足 1", "category": "legs", "svgPath": "/illustrations/legs/legs-1.svg" }
+  ],
+  "accessory": [
+    { "id": "obj-1", "name": "小物 1", "category": "accessory", "svgPath": "/illustrations/objects/obj-1.svg" }
+  ],
+  "background": [
+    { "id": "bg-1", "name": "背景 1", "category": "background", "svgPath": "/illustrations/backgrounds/bg-1.svg" },
+    { "id": "none", "name": "背景なし", "category": "background" }
+  ],
+  "vehicle": [
+    { "id": "veh-1", "name": "車両 1", "category": "vehicle", "svgPath": "/illustrations/vehicles/veh-1.svg" }
+  ]
+}
